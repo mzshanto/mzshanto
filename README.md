@@ -1,4 +1,4 @@
-![github-thumbnail](https://github.com/Shanto75/Shanto75/blob/main/MD.%20Moniruzzaman%20Shanto.png)
+![github-thumbnail](https://github.com/mzshanto/mzshanto/blob/04e18cd9315f21c3a4ba305dfc4d0a81c885f9c8/MD.%20Moniruzzaman%20Shanto.png)
 
 # Hello There!, I'm Moniruzzaman Shanto! 👋
 
