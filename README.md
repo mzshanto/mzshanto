@@ -14,7 +14,7 @@ dynamic global team and contribute to impactful software solutions.**
 ```yaml
 
   Languages:
-  - C/C++, Python, JavaScript, PHP, Solidity, SQL.
+  - C/C++, Python, JavaScript, TypeScript, PHP, Solidity, SQL.
   Frameworks & Library:
   - React.js, Vue.js, Node.js, Laravel, Bootstrap, TailwindCSS.
   Database:
