@@ -3,19 +3,24 @@
 # Hello There!, I'm Moniruzzaman Shanto! 👋
 
 ## 🚀 ABOUT ME
-**Passionate software engineer with over 1.5+ years of experience working on complex software development, maintenance, deployment, and database management. The objective is to work throughout the software development, maintenance, information technology, or similar sectors of various public and corporate organizations internationally, and to advance rapidly with growing responsibilities and challenges.**
+**Results-oriented Software Engineer with over 2 years of hands-on experience in building and maintaining 
+full-stack web applications across diverse industries, including VPN, e-commerce, and automation. Skilled 
+in both frontend and backend development using modern frameworks such as React, Vue.js, Laravel, 
+Node.js and Express.js, and Django. Proficient in working with relational and NoSQL databases, API 
+integrations, and deployment on VPS/cloud environments. Seeking to apply technical expertise in a 
+dynamic global team and contribute to impactful software solutions.**
 
 ## 🛠 TECHNICAL SKILLS
 ```yaml
 
   Languages:
-  - C/C++, Python, JavaScript, PHP, SQL.
+  - C/C++, Python, JavaScript, PHP, Solidity, SQL.
   Frameworks & Library:
-  - React.js, Vue.js, Laravel, Bootstrap, TailwindCSS.
+  - React.js, Vue.js, Node.js, Laravel, Bootstrap, TailwindCSS.
   Database:
-  - MySQL, MongoDB.
+  - MySQL, MongoDB, Redis.
   Tools:
-  - Git, GitHub-Actions, Docker, CI/CD.
+  - Git, Docker.
 
 ```
 ## 🔗 Links
