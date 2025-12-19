@@ -1,30 +1,87 @@
-![github-thumbnail](https://github.com/mzshanto/mzshanto/blob/04e18cd9315f21c3a4ba305dfc4d0a81c885f9c8/MD.%20Moniruzzaman%20Shanto.png)
+# 👋 Hi, I’m MD. Moniruzzaman Shanto
 
-# Hello There!, I'm Moniruzzaman Shanto! 👋
+**Software Engineer | Backend & Platform-Focused Full-Stack Developer**
 
-## 🚀 ABOUT ME
-**Results-oriented Software Engineer with over 2 years of hands-on experience in building and maintaining 
-full-stack web applications across diverse industries, including VPN, e-commerce, and automation. Skilled 
-in both frontend and backend development using modern frameworks such as React, Vue.js, Laravel, 
-Node.js and Express.js, and Django. Proficient in working with relational and NoSQL databases, API 
-integrations, and deployment on VPS/cloud environments. Seeking to apply technical expertise in a 
-dynamic global team and contribute to impactful software solutions.**
+I’m a results-driven Software Engineer with **3+ years of experience** building, scaling, and managing production-grade web systems across **VPN, ERP, CRM, SMC, and HRM** domains. I currently work on **SymlexVPN** and a **white-label VPN platform** used by **millions of global users**, where I focus on performance, scalability, reliability, and system design.
 
-## 🛠 TECHNICAL SKILLS
-```yaml
+---
 
-  Languages:
-  - C/C++, Python, JavaScript, TypeScript, PHP, Solidity, SQL.
-  Frameworks & Library:
-  - React.js, Vue.js, Node.js, Laravel, Bootstrap, TailwindCSS.
-  Database:
-  - MySQL, MongoDB, Redis.
-  Tools:
-  - Git, Docker.
+## 🚀 What I Do
 
-```
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-blueviolet?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mzshanto.epizy.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mzshanto)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mzshanto)
-[![instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mzshanto)
+- Design and build **scalable backend systems** and **high-performance REST APIs**
+- Develop and manage **white-label VPN platforms** REST API, Admin and reseller portals
+- Optimize **frontend performance** (Core Web Vitals, Lighthouse)
+- Build **event-driven and distributed systems**
+- Deploy and maintain **production infrastructure** on VPS/cloud environments
+
+---
+
+## 🧠 Core Expertise
+
+### Backend & Architecture
+- REST API design, authentication (JWT, OAuth2), RBAC  
+- Event-driven systems with **RabbitMQ**  
+- Caching strategies with **Redis**  
+- Distributed logging and search using **Elasticsearch**  
+- Performance optimization and query tuning (**MySQL**)
+
+### Frontend
+- React.js & Vue.js (production-level usage)  
+- Core Web Vitals & Lighthouse optimization  
+- State management and scalable UI architecture  
+
+### Cloud & DevOps
+- Docker, CI/CD pipelines  
+- VPS & cloud deployments  
+- Linux, Nginx, Cloudflare  
+
+---
+
+## 🏗️ Professional Experience
+
+### **Software Engineer I – Kolpolok Limited**
+- Own and manage **SymlexVPN**, serving **millions of users worldwide**
+- Improved **Core Web Vitals from ~35 to ~80**
+- Designed and scaled a **white-label VPN platform** with admin panels and reseller portals
+- Improved backend throughput by **30%** using MySQL & Redis
+- Reduced troubleshooting time by **60%** using RabbitMQ + Elasticsearch
+- Built in-app engagement systems (push notifications, email automation, banners)
+
+---
+
+## 🧩 Notable Projects
+
+### 🎟️ Ticket Master Automation
+Cross-platform automation system for large-scale ticket workflows  
+**Tech:** TypeScript, Node.js, NestJS, React, Prisma, Electron, Playwright
+
+### 🔐 Blockchain-Based Document Verification
+Tamper-proof document verification using file content and buffer hashing  
+**Tech:** Solidity, Node.js, Express.js, React, Ethers.js, MongoDB
+
+### 🗳️ Decentralized Online Voting Platform
+Secure Ethereum-based voting system using smart contracts  
+**Tech:** Node.js, Solidity
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, PHP, Python, C++, SQL, Solidity  
+**Frameworks:** React.js, Vue.js, Laravel, Node.js, Express.js  
+**Databases:** MySQL, Redis, MongoDB  
+**Tools:** RabbitMQ, Elasticsearch, Docker, Git, Linux, CI/CD, Cloudflare
+
+---
+
+## 🌍 Open To
+- Backend / Platform Engineering roles  
+- Full-Stack roles with system design focus  
+- Remote & international opportunities  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/mzshanto  
+- LinkedIn: https://linkedin.com/in/mzshanto  
+- Email: ms.shanto1234@gmail.com  
