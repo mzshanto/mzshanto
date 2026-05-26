@@ -1,87 +1,38 @@
-# 👋 Hi, I’m MD. Moniruzzaman Shanto
+## Hi, I'm Shanto 👋
 
-**Software Engineer | Backend & Platform-Focused Full-Stack Developer**
-
-I’m a results-driven Software Engineer with **3+ years of experience** building, scaling, and managing production-grade web systems across **VPN, ERP, CRM, SMC, and HRM** domains. I currently work on **SymlexVPN** and a **white-label VPN platform** used by **millions of global users**, where I focus on performance, scalability, reliability, and system design.
+Software Engineer with 3+ years building and scaling production web systems — currently at **Kolpolok Limited**, where I own and manage **SymlexVPN** and **SymlexHUB**, serving millions of users globally.
 
 ---
 
-## 🚀 What I Do
+### What I've shipped
 
-- Design and build **scalable backend systems** and **high-performance REST APIs**
-- Develop and manage **white-label VPN platforms** REST API, Admin and reseller portals
-- Optimize **frontend performance** (Core Web Vitals, Lighthouse)
-- Build **event-driven and distributed systems**
-- Deploy and maintain **production infrastructure** on VPS/cloud environments
+- Pushed Core Web Vitals from ~35 → ~80 and improved backend throughput by 30% via Redis caching, query optimisation, and async job queues
+- Architected event-driven systems with RabbitMQ + Elasticsearch, cutting troubleshooting time by 60%
+- Built end-to-end payment infrastructure across Stripe, PayPal, SSL, and iOS/Android IAP — 
+  webhook-driven payment resolution (handling failed client redirects), 
+  dual-layer duplicate prevention via Redis atomic locks and DB mutex locks.
+- Developed in-app engagement and operational systems — push notifications, email automation, dynamic contents, real-time broadcasting, queue processing, and activity logging
+- Designed and scaled a white-label VPN SaaS platform with reseller & admin portals, enabling partners to launch and operate fully branded VPN services
+---
+
+### Stack
+
+`Laravel` `React` `Next.js` `Vue.js` `TypeScript` `Node.js` `NestJS` `WebSockets`  
+`MySQL` `PostgreSQL` `Redis` `MongoDB` `RabbitMQ` `Elasticsearch` `Docker` `Nginx`
 
 ---
 
-## 🧠 Core Expertise
+### Notable projects
 
-### Backend & Architecture
-- REST API design, authentication (JWT, OAuth2), RBAC  
-- Event-driven systems with **RabbitMQ**  
-- Caching strategies with **Redis**  
-- Distributed logging and search using **Elasticsearch**  
-- Performance optimization and query tuning (**MySQL**)
-
-### Frontend
-- React.js & Vue.js (production-level usage)  
-- Core Web Vitals & Lighthouse optimization  
-- State management and scalable UI architecture  
-
-### Cloud & DevOps
-- Docker, CI/CD pipelines  
-- VPS & cloud deployments  
-- Linux, Nginx, Cloudflare  
+| Project | Description |
+|---|---|
+| **SymlexHUB** | Multi-tenant SaaS platform for VPN/DNS/Cloud partner onboarding |
+| **Standalone VPN Platform** | End-to-end VPN product delivered to clients with full ownership |
+| **Ticket Master Automation** | Cross-platform automation with Electron + Playwright |
+| **Blockchain Doc Verification** | Tamper-proof verification via Ethereum hashing |
 
 ---
 
-## 🏗️ Professional Experience
+### Find me
 
-### **Software Engineer I – Kolpolok Limited**
-- Own and manage **SymlexVPN**, serving **millions of users worldwide**
-- Improved **Core Web Vitals from ~35 to ~80**
-- Designed and scaled a **white-label VPN platform** with admin panels and reseller portals
-- Improved backend throughput by **30%** using MySQL & Redis
-- Reduced troubleshooting time by **60%** using RabbitMQ + Elasticsearch
-- Built in-app engagement systems (push notifications, email automation, banners)
-
----
-
-## 🧩 Notable Projects
-
-### 🎟️ Ticket Master Automation
-Cross-platform automation system for large-scale ticket workflows  
-**Tech:** TypeScript, Node.js, NestJS, React, Prisma, Electron, Playwright
-
-### 🔐 Blockchain-Based Document Verification
-Tamper-proof document verification using file content and buffer hashing  
-**Tech:** Solidity, Node.js, Express.js, React, Ethers.js, MongoDB
-
-### 🗳️ Decentralized Online Voting Platform
-Secure Ethereum-based voting system using smart contracts  
-**Tech:** Node.js, Solidity
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, PHP, Python, C++, SQL, Solidity  
-**Frameworks:** React.js, Vue.js, Laravel, Node.js, Express.js  
-**Databases:** MySQL, Redis, MongoDB  
-**Tools:** RabbitMQ, Elasticsearch, Docker, Git, Linux, CI/CD, Cloudflare
-
----
-
-## 🌍 Open To
-- Backend / Platform Engineering roles  
-- Full-Stack roles with system design focus  
-- Remote & international opportunities  
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/mzshanto  
-- LinkedIn: https://linkedin.com/in/mzshanto  
-- Email: ms.shanto1234@gmail.com  
+[GitHub](https://github.com/mzshanto) · [LinkedIn](https://linkedin.com/in/mzshanto) · ms.shanto1234@gmail.com
