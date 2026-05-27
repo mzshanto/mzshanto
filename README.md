@@ -17,19 +17,34 @@ Software Engineer with 3+ years building and scaling production web systems — 
 
 ### Stack
 
-`Laravel` `React` `Next.js` `Vue.js` `TypeScript` `Node.js` `NestJS` `WebSockets`  
-`MySQL` `PostgreSQL` `Redis` `MongoDB` `RabbitMQ` `Elasticsearch` `Docker` `Nginx`
+**Languages**
+`PHP` `TypeScript` `JavaScript` `Python` `SQL` `Solidity`
+
+**Frontend**
+`React.js` `Next.js` `Vue.js` `Tailwind CSS`
+
+**Backend**
+`Node.js` `NestJS` `Express.js` `Laravel`
+
+**Databases**
+`MySQL` `PostgreSQL` `Redis` `MongoDB`
+
+**Infrastructure & DevOps**
+`Docker` `Nginx` `Linux` `CI/CD` `Git` `Cloudflare` `VPS`
+
+**Specialized**
+`RabbitMQ` `Elasticsearch`
 
 ---
 
-### Notable projects
+### Notable Projects
 
 | Project | Description |
 |---|---|
-| **SymlexHUB** | Multi-tenant SaaS platform for VPN/DNS/Cloud partner onboarding |
-| **Standalone VPN Platform** | End-to-end VPN product delivered to clients with full ownership |
-| **Ticket Master Automation** | Cross-platform automation with Electron + Playwright |
-| **Blockchain Doc Verification** | Tamper-proof verification via Ethereum hashing |
+| **SymlexHUB** | Multi-tenant SaaS platform for onboarding partner companies to operate white-label VPN and DNS services — with subscription billing, affiliate & wallet systems, multi-gateway payments, and real-time event-driven workflows |
+| **Custom VPN Platform** | End-to-end VPN management product delivered to clients with full ownership — VPN server and protocol Management, admin dashboards, and real-time monitoring, customized per client branding and infrastructure |
+| **Ticket Master Automation** | Cross-platform desktop automation system for large-scale ticket workflows — built with Electron + Playwright for headless browser automation |
+| **Blockchain Doc Verification** | Tamper-proof document verification using file content and buffer hashing on Ethereum — ensures integrity via cryptographic hashing and immutable on-chain storage, with a React interface for verification |
 
 ---
 
