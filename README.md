@@ -15,6 +15,9 @@ Software Engineer with 4+ years building and scaling production web systems — 
 - Designed and scaled a white-label VPN SaaS platform with reseller & admin portals, enabling partners to launch and operate fully branded VPN services
 ---
 
+> 📈 For my professional GitHub activity and contribution history, see:
+> https://github.com/shantoweb
+
 ### Stack
 
 **Languages**
